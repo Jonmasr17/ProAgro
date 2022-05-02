@@ -1,0 +1,13 @@
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.DAL\bin\Release\netstandard2.1\ProAgro.DAL.deps.json
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.DAL\bin\Release\netstandard2.1\ProAgro.DAL.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.DAL\bin\Release\netstandard2.1\ProAgro.DAL.pdb
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.DAL\bin\Release\netstandard2.1\ProAgro.Entities.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.DAL\bin\Release\netstandard2.1\ProAgro.Entities.pdb
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.DAL\obj\Release\netstandard2.1\ProAgro.DAL.csproj.AssemblyReference.cache
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.DAL\obj\Release\netstandard2.1\ProAgro.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.DAL\obj\Release\netstandard2.1\ProAgro.DAL.AssemblyInfoInputs.cache
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.DAL\obj\Release\netstandard2.1\ProAgro.DAL.AssemblyInfo.cs
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.DAL\obj\Release\netstandard2.1\ProAgro.DAL.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.DAL\obj\Release\netstandard2.1\ProAgro.DAL.csproj.CopyComplete
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.DAL\obj\Release\netstandard2.1\ProAgro.DAL.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.DAL\obj\Release\netstandard2.1\ProAgro.DAL.pdb

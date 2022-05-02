@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.WebApp\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-05-02T08:38:23.2323744Z;False|2022-05-02T02:48:02.2290329-05:00;True|2022-05-02T01:51:32.5116594-05:00;True|2022-05-02T01:42:46.1614285-05:00;True|2022-05-02T01:34:59.5232694-05:00;True|2022-05-02T01:11:02.6798536-05:00;False|2022-05-02T01:10:46.2021301-05:00;True|2022-05-02T01:04:46.6592281-05:00;True|2022-05-02T00:52:17.2409218-05:00;True|2022-05-02T00:33:47.7213825-05:00;False|2022-05-02T00:31:24.4269460-05:00;True|2022-05-01T22:10:12.5371447-05:00;True|2022-05-01T22:05:04.2311843-05:00;False|2022-05-01T22:04:53.2030860-05:00;True|2022-05-01T20:48:28.2017040-05:00;</History>
+  </PropertyGroup>
+</Project>

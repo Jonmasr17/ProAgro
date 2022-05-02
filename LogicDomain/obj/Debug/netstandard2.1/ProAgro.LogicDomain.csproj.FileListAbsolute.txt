@@ -1,0 +1,17 @@
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\LogicDomain\bin\Debug\netstandard2.1\ProAgro.LogicDomain.deps.json
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\LogicDomain\bin\Debug\netstandard2.1\ProAgro.LogicDomain.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\LogicDomain\bin\Debug\netstandard2.1\ProAgro.LogicDomain.pdb
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\LogicDomain\bin\Debug\netstandard2.1\ProAgro.Abstractions.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\LogicDomain\bin\Debug\netstandard2.1\ProAgro.DAL.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\LogicDomain\bin\Debug\netstandard2.1\ProAgro.Entities.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\LogicDomain\bin\Debug\netstandard2.1\ProAgro.Abstractions.pdb
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\LogicDomain\bin\Debug\netstandard2.1\ProAgro.DAL.pdb
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\LogicDomain\bin\Debug\netstandard2.1\ProAgro.Entities.pdb
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\LogicDomain\obj\Debug\netstandard2.1\ProAgro.LogicDomain.csproj.AssemblyReference.cache
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\LogicDomain\obj\Debug\netstandard2.1\ProAgro.LogicDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\LogicDomain\obj\Debug\netstandard2.1\ProAgro.LogicDomain.AssemblyInfoInputs.cache
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\LogicDomain\obj\Debug\netstandard2.1\ProAgro.LogicDomain.AssemblyInfo.cs
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\LogicDomain\obj\Debug\netstandard2.1\ProAgro.LogicDomain.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\LogicDomain\obj\Debug\netstandard2.1\ProAgro.LogicDomain.csproj.CopyComplete
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\LogicDomain\obj\Debug\netstandard2.1\ProAgro.LogicDomain.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\LogicDomain\obj\Debug\netstandard2.1\ProAgro.LogicDomain.pdb

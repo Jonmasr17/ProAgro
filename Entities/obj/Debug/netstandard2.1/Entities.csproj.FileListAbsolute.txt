@@ -1,0 +1,10 @@
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\Entities\bin\Debug\netstandard2.1\Entities.deps.json
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\Entities\bin\Debug\netstandard2.1\Entities.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\Entities\bin\Debug\netstandard2.1\Entities.pdb
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\Entities\obj\Debug\netstandard2.1\Entities.csproj.AssemblyReference.cache
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\Entities\obj\Debug\netstandard2.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfoInputs.cache
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfo.cs
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\Entities\obj\Debug\netstandard2.1\Entities.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\Entities\obj\Debug\netstandard2.1\Entities.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\Entities\obj\Debug\netstandard2.1\Entities.pdb

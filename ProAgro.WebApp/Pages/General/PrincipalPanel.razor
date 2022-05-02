@@ -1,0 +1,18 @@
+﻿@page "/Panel"
+@using ProAgro.WebApp.Models
+@inject IJSRuntime JSRuntime
+@inject UserFullModel UserFullmodel
+
+<h3>Bienvenido @UserFullmodel.Usuario.nombre</h3>
+<div>
+    <label for="changename">Actualizar nombre</label>
+    <input type="text" @bind-value="@ActualName" id="changename"/>
+    <button @onclick="OnChangeName">Registrar cambio</button>
+
+</div>
+<div id="map" style="height:500px;width:100%;">
+</div>
+
+@code {
+
+}

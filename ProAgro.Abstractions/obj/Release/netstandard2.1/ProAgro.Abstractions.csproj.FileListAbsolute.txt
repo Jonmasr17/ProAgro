@@ -1,0 +1,15 @@
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Abstractions\bin\Release\netstandard2.1\ProAgro.Abstractions.deps.json
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Abstractions\bin\Release\netstandard2.1\ProAgro.Abstractions.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Abstractions\bin\Release\netstandard2.1\ProAgro.Abstractions.pdb
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Abstractions\bin\Release\netstandard2.1\ProAgro.DAL.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Abstractions\bin\Release\netstandard2.1\ProAgro.Entities.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Abstractions\bin\Release\netstandard2.1\ProAgro.DAL.pdb
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Abstractions\bin\Release\netstandard2.1\ProAgro.Entities.pdb
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Abstractions\obj\Release\netstandard2.1\ProAgro.Abstractions.csproj.AssemblyReference.cache
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Abstractions\obj\Release\netstandard2.1\ProAgro.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Abstractions\obj\Release\netstandard2.1\ProAgro.Abstractions.AssemblyInfoInputs.cache
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Abstractions\obj\Release\netstandard2.1\ProAgro.Abstractions.AssemblyInfo.cs
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Abstractions\obj\Release\netstandard2.1\ProAgro.Abstractions.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Abstractions\obj\Release\netstandard2.1\ProAgro.Abstractions.csproj.CopyComplete
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Abstractions\obj\Release\netstandard2.1\ProAgro.Abstractions.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Abstractions\obj\Release\netstandard2.1\ProAgro.Abstractions.pdb

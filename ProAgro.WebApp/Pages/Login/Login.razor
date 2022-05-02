@@ -1,0 +1,26 @@
+﻿@page "/Login"
+@using ProAgro.WebApp.Models
+@inject IJSRuntime JSRuntime
+@inject NavigationManager NavigationManager
+@inject UserFullModel UserFullModel
+<div class="row">
+    <div class="form-group justify-content-center text-center">
+        <div>
+            <h3>Login</h3>            
+            <label>Usuario</label>
+            <br />
+            <input @bind-value="Username" type=text placeholder="Ingrese su usuario">
+            <br />
+            <label>Contraseña</label>
+            <br />
+            <input @bind-value="Password" type="password" placeholder="Ingrese su contraseña" />
+            <br />
+            <button @onclick="LoginSendData" class="btn btn-success">Ingresar</button>
+        </div>
+       
+    </div>
+</div>
+
+@code{
+   
+}

@@ -1,0 +1,17 @@
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Repository\bin\Debug\netstandard2.1\ProAgro.Repository.deps.json
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Repository\bin\Debug\netstandard2.1\ProAgro.Repository.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Repository\bin\Debug\netstandard2.1\ProAgro.Repository.pdb
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Repository\bin\Debug\netstandard2.1\ProAgro.Abstractions.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Repository\bin\Debug\netstandard2.1\ProAgro.DAL.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Repository\bin\Debug\netstandard2.1\ProAgro.Entities.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Repository\bin\Debug\netstandard2.1\ProAgro.Abstractions.pdb
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Repository\bin\Debug\netstandard2.1\ProAgro.DAL.pdb
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Repository\bin\Debug\netstandard2.1\ProAgro.Entities.pdb
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Repository\obj\Debug\netstandard2.1\ProAgro.Repository.csproj.AssemblyReference.cache
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Repository\obj\Debug\netstandard2.1\ProAgro.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Repository\obj\Debug\netstandard2.1\ProAgro.Repository.AssemblyInfoInputs.cache
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Repository\obj\Debug\netstandard2.1\ProAgro.Repository.AssemblyInfo.cs
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Repository\obj\Debug\netstandard2.1\ProAgro.Repository.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Repository\obj\Debug\netstandard2.1\ProAgro.Repository.csproj.CopyComplete
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Repository\obj\Debug\netstandard2.1\ProAgro.Repository.dll
+C:\Proyectos\ProAgro\ProAgroGeorreferencias\ProAgro.Repository\obj\Debug\netstandard2.1\ProAgro.Repository.pdb

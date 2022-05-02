@@ -1,0 +1,273 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\LogicDomain\\ProAgro.LogicDomain.csproj": {}
+  },
+  "projects": {
+    "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\Entities\\ProAgro.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\Entities\\ProAgro.Entities.csproj",
+        "projectName": "ProAgro.Entities",
+        "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\Entities\\ProAgro.Entities.csproj",
+        "packagesPath": "C:\\Users\\jrg_p\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jrg_p\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\LogicDomain\\ProAgro.LogicDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\LogicDomain\\ProAgro.LogicDomain.csproj",
+        "projectName": "ProAgro.LogicDomain",
+        "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\LogicDomain\\ProAgro.LogicDomain.csproj",
+        "packagesPath": "C:\\Users\\jrg_p\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\LogicDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jrg_p\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj": {
+                "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj"
+              },
+              "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\ProAgro.DAL.csproj": {
+                "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\ProAgro.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj",
+        "projectName": "ProAgro.Abstractions",
+        "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\jrg_p\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jrg_p\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\ProAgro.DAL.csproj": {
+                "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\ProAgro.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\ProAgro.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\ProAgro.DAL.csproj",
+        "projectName": "ProAgro.DAL",
+        "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\ProAgro.DAL.csproj",
+        "packagesPath": "C:\\Users\\jrg_p\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jrg_p\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\Entities\\ProAgro.Entities.csproj": {
+                "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\Entities\\ProAgro.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
