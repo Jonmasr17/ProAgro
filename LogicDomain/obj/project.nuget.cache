@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F4HQcIejYKuW8/l/ZnBtBxH886pQWaTp1Opc0669qEl/NUb43tS1+fBNn6hXELm1MHswOn5mi9RzC5ot0IzfvQ==",
+  "dgSpecHash": "yWUwN9HkaljhzcCwkHnzz3B0aE/fOQZ3h8y9dp3mPABqfjSPZXUKvvUvZycKA2Ezphu0jWN/L0I2zEU7AS5MIA==",
   "success": true,
-  "projectFilePath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\LogicDomain\\ProAgro.LogicDomain.csproj",
+  "projectFilePath": "C:\\Proyectos\\test\\ProAgro\\LogicDomain\\ProAgro.LogicDomain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jrg_p\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\jrg_p\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

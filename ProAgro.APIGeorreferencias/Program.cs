@@ -22,7 +22,7 @@ builder.Services.AddMemoryCache();
 builder.Services.AddDbContextFactory<DatabaseContext>(options =>
                 options.UseSqlServer(conf.GetValue<string>("Connectionstring"), x => { x.EnableRetryOnFailure(); x.CommandTimeout(120); }));
 var app = builder.Build();
-
+//testting change on another branch
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
