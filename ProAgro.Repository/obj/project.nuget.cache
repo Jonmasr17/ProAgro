@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ulNSNt+ITRcE5oRbPzkJxukgj9jzYoBlD7Bnq+VKAttGey1ou1sylfsOTSj21J+bDsTPnk/uBpLubRPXaUgFRw==",
+  "dgSpecHash": "LOACXb+bvruvmpugjFIEVZ4eaRBnftTzeczDWF9C4nhUmWJX01XtENKQaHaRBAa7X/PJY5peS2rWm0hesE92kQ==",
   "success": true,
-  "projectFilePath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Repository\\ProAgro.Repository.csproj",
+  "projectFilePath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.Repository\\ProAgro.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jrg_p\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\jrg_p\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

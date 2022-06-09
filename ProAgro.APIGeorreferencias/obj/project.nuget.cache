@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lbUo/Ekv3D23uS6hF2kUeDDcZNCrEyrdI9yIi1k+M1B1TFD8PfUzPekNwrCIKbho/bexeNdsop1FOYr6/bFRrA==",
+  "dgSpecHash": "LE3JTGkOHs7gwGZLMFGmuhoMvmUgsQYwkcEonAmYJbIUBjCtRk/r9jqHcIoH33/DmplyzOJt9JLMOup0GKX9FQ==",
   "success": true,
-  "projectFilePath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.APIGeorreferencias\\ProAgro.APIGeorreferencias.csproj",
+  "projectFilePath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.APIGeorreferencias\\ProAgro.APIGeorreferencias.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jrg_p\\.nuget\\packages\\elasticsearch.net\\7.17.1\\elasticsearch.net.7.17.1.nupkg.sha512",
     "C:\\Users\\jrg_p\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",

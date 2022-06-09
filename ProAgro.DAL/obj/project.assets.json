@@ -7175,11 +7175,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\ProAgro.DAL.csproj",
+      "projectUniqueName": "C:\\Proyectos\\test\\ProAgro\\ProAgro.DAL\\ProAgro.DAL.csproj",
       "projectName": "ProAgro.DAL",
-      "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\ProAgro.DAL.csproj",
+      "projectPath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.DAL\\ProAgro.DAL.csproj",
       "packagesPath": "C:\\Users\\jrg_p\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\obj\\",
+      "outputPath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7200,8 +7200,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\Entities\\ProAgro.Entities.csproj": {
-              "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\Entities\\ProAgro.Entities.csproj"
+            "C:\\Proyectos\\test\\ProAgro\\Entities\\ProAgro.Entities.csproj": {
+              "projectPath": "C:\\Proyectos\\test\\ProAgro\\Entities\\ProAgro.Entities.csproj"
             }
           }
         }

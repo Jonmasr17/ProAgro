@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbe21cc7-c776-4369-86f0-aaa6793696be": {
+      "ProjectGuid": "dbe21cc7-c776-4369-86f0-aaa6793696be",
+      "DisplayName": "ProAgro.APIGeorreferencias",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "foLSv1w2EWQMFc1EnrVxMVZodSZcxt+oDqt4tGZXkUZzUlEsyez+ww/K6uGcDHUmnI46ejnFMerokWBQ46YWIA==",
+  "dgSpecHash": "rL2r08cfx2+kXSWH4w9iv6RKywPc/YgpAGWzBaQTiUGT+NkABBLr5jAHNlwkYcBvC62jSpe6PtS63deEjq5ugQ==",
   "success": true,
-  "projectFilePath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.WebApp\\ProAgro.WebApp.csproj",
+  "projectFilePath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.WebApp\\ProAgro.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jrg_p\\.nuget\\packages\\microsoft-web-helpers\\2.1.20710.2\\microsoft-web-helpers.2.1.20710.2.nupkg.sha512",
     "C:\\Users\\jrg_p\\.nuget\\packages\\microsoft.aspnet.razor\\2.0.20505\\microsoft.aspnet.razor.2.0.20505.nupkg.sha512",

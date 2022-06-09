@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JtDVZDcxEhtzLicNmMXUyC0M8DV2SErh7nznvH8VcqAZ0t+8ALdKcTZEUgjLxafQilAcEYVKCuD1y3yLreZzBQ==",
+  "dgSpecHash": "TxIk24TYfSqTZqn2KEZCt/j8ERhgtRIrdrUgm9V3JIgdI1jtwFXkEc+fpm0CJmI3rZqzkPfnvXK4CyrzaKmNBA==",
   "success": true,
-  "projectFilePath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj",
+  "projectFilePath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jrg_p\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\jrg_p\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

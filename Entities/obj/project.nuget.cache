@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H3ZqPcXVi4AkZzLtLZh1TeUkaVoOPMy7xMkDWJAW8u8UOn6Jlv9+DTZaQFKGPQ4YW129b9KmZuULsB/1lgNpvQ==",
+  "dgSpecHash": "zxSJHm/utFyha/KzvPghDOzcNm2IaTGBxqeCo/4nbSz9Fk46Ki7eGLiUc2tWrfdyOJTippm8sl1Mqlj2XrJCJg==",
   "success": true,
-  "projectFilePath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\Entities\\ProAgro.Entities.csproj",
+  "projectFilePath": "C:\\Proyectos\\test\\ProAgro\\Entities\\ProAgro.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

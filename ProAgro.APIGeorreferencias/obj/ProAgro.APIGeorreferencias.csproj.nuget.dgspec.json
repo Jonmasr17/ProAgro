@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.APIGeorreferencias\\ProAgro.APIGeorreferencias.csproj": {}
+    "C:\\Proyectos\\test\\ProAgro\\ProAgro.APIGeorreferencias\\ProAgro.APIGeorreferencias.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\Entities\\ProAgro.Entities.csproj": {
+    "C:\\Proyectos\\test\\ProAgro\\Entities\\ProAgro.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\Entities\\ProAgro.Entities.csproj",
+        "projectUniqueName": "C:\\Proyectos\\test\\ProAgro\\Entities\\ProAgro.Entities.csproj",
         "projectName": "ProAgro.Entities",
-        "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\Entities\\ProAgro.Entities.csproj",
+        "projectPath": "C:\\Proyectos\\test\\ProAgro\\Entities\\ProAgro.Entities.csproj",
         "packagesPath": "C:\\Users\\jrg_p\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\Entities\\obj\\",
+        "outputPath": "C:\\Proyectos\\test\\ProAgro\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\LogicDomain\\ProAgro.LogicDomain.csproj": {
+    "C:\\Proyectos\\test\\ProAgro\\LogicDomain\\ProAgro.LogicDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\LogicDomain\\ProAgro.LogicDomain.csproj",
+        "projectUniqueName": "C:\\Proyectos\\test\\ProAgro\\LogicDomain\\ProAgro.LogicDomain.csproj",
         "projectName": "ProAgro.LogicDomain",
-        "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\LogicDomain\\ProAgro.LogicDomain.csproj",
+        "projectPath": "C:\\Proyectos\\test\\ProAgro\\LogicDomain\\ProAgro.LogicDomain.csproj",
         "packagesPath": "C:\\Users\\jrg_p\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\LogicDomain\\obj\\",
+        "outputPath": "C:\\Proyectos\\test\\ProAgro\\LogicDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,11 +90,11 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj": {
-                "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj"
+              "C:\\Proyectos\\test\\ProAgro\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj": {
+                "projectPath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj"
               },
-              "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\ProAgro.DAL.csproj": {
-                "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\ProAgro.DAL.csproj"
+              "C:\\Proyectos\\test\\ProAgro\\ProAgro.DAL\\ProAgro.DAL.csproj": {
+                "projectPath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.DAL\\ProAgro.DAL.csproj"
               }
             }
           }
@@ -133,14 +133,14 @@
         }
       }
     },
-    "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj": {
+    "C:\\Proyectos\\test\\ProAgro\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj",
+        "projectUniqueName": "C:\\Proyectos\\test\\ProAgro\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj",
         "projectName": "ProAgro.Abstractions",
-        "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj",
+        "projectPath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj",
         "packagesPath": "C:\\Users\\jrg_p\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Abstractions\\obj\\",
+        "outputPath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.Abstractions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -161,8 +161,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\ProAgro.DAL.csproj": {
-                "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\ProAgro.DAL.csproj"
+              "C:\\Proyectos\\test\\ProAgro\\ProAgro.DAL\\ProAgro.DAL.csproj": {
+                "projectPath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.DAL\\ProAgro.DAL.csproj"
               }
             }
           }
@@ -201,14 +201,14 @@
         }
       }
     },
-    "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.APIGeorreferencias\\ProAgro.APIGeorreferencias.csproj": {
+    "C:\\Proyectos\\test\\ProAgro\\ProAgro.APIGeorreferencias\\ProAgro.APIGeorreferencias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.APIGeorreferencias\\ProAgro.APIGeorreferencias.csproj",
+        "projectUniqueName": "C:\\Proyectos\\test\\ProAgro\\ProAgro.APIGeorreferencias\\ProAgro.APIGeorreferencias.csproj",
         "projectName": "ProAgro.APIGeorreferencias",
-        "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.APIGeorreferencias\\ProAgro.APIGeorreferencias.csproj",
+        "projectPath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.APIGeorreferencias\\ProAgro.APIGeorreferencias.csproj",
         "packagesPath": "C:\\Users\\jrg_p\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.APIGeorreferencias\\obj\\",
+        "outputPath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.APIGeorreferencias\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -229,17 +229,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\Entities\\ProAgro.Entities.csproj": {
-                "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\Entities\\ProAgro.Entities.csproj"
+              "C:\\Proyectos\\test\\ProAgro\\Entities\\ProAgro.Entities.csproj": {
+                "projectPath": "C:\\Proyectos\\test\\ProAgro\\Entities\\ProAgro.Entities.csproj"
               },
-              "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\LogicDomain\\ProAgro.LogicDomain.csproj": {
-                "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\LogicDomain\\ProAgro.LogicDomain.csproj"
+              "C:\\Proyectos\\test\\ProAgro\\LogicDomain\\ProAgro.LogicDomain.csproj": {
+                "projectPath": "C:\\Proyectos\\test\\ProAgro\\LogicDomain\\ProAgro.LogicDomain.csproj"
               },
-              "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj": {
-                "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj"
+              "C:\\Proyectos\\test\\ProAgro\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj": {
+                "projectPath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj"
               },
-              "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Repository\\ProAgro.Repository.csproj": {
-                "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Repository\\ProAgro.Repository.csproj"
+              "C:\\Proyectos\\test\\ProAgro\\ProAgro.Repository\\ProAgro.Repository.csproj": {
+                "projectPath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.Repository\\ProAgro.Repository.csproj"
               }
             }
           }
@@ -289,14 +289,14 @@
         }
       }
     },
-    "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\ProAgro.DAL.csproj": {
+    "C:\\Proyectos\\test\\ProAgro\\ProAgro.DAL\\ProAgro.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\ProAgro.DAL.csproj",
+        "projectUniqueName": "C:\\Proyectos\\test\\ProAgro\\ProAgro.DAL\\ProAgro.DAL.csproj",
         "projectName": "ProAgro.DAL",
-        "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\ProAgro.DAL.csproj",
+        "projectPath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.DAL\\ProAgro.DAL.csproj",
         "packagesPath": "C:\\Users\\jrg_p\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\obj\\",
+        "outputPath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -317,8 +317,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\Entities\\ProAgro.Entities.csproj": {
-                "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\Entities\\ProAgro.Entities.csproj"
+              "C:\\Proyectos\\test\\ProAgro\\Entities\\ProAgro.Entities.csproj": {
+                "projectPath": "C:\\Proyectos\\test\\ProAgro\\Entities\\ProAgro.Entities.csproj"
               }
             }
           }
@@ -357,14 +357,14 @@
         }
       }
     },
-    "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Repository\\ProAgro.Repository.csproj": {
+    "C:\\Proyectos\\test\\ProAgro\\ProAgro.Repository\\ProAgro.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Repository\\ProAgro.Repository.csproj",
+        "projectUniqueName": "C:\\Proyectos\\test\\ProAgro\\ProAgro.Repository\\ProAgro.Repository.csproj",
         "projectName": "ProAgro.Repository",
-        "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Repository\\ProAgro.Repository.csproj",
+        "projectPath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.Repository\\ProAgro.Repository.csproj",
         "packagesPath": "C:\\Users\\jrg_p\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Repository\\obj\\",
+        "outputPath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -385,11 +385,11 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj": {
-                "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj"
+              "C:\\Proyectos\\test\\ProAgro\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj": {
+                "projectPath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.Abstractions\\ProAgro.Abstractions.csproj"
               },
-              "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\ProAgro.DAL.csproj": {
-                "projectPath": "C:\\Proyectos\\ProAgro\\ProAgroGeorreferencias\\ProAgro.DAL\\ProAgro.DAL.csproj"
+              "C:\\Proyectos\\test\\ProAgro\\ProAgro.DAL\\ProAgro.DAL.csproj": {
+                "projectPath": "C:\\Proyectos\\test\\ProAgro\\ProAgro.DAL\\ProAgro.DAL.csproj"
               }
             }
           }
